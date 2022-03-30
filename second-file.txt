@@ -1,0 +1,31 @@
+The Atlassian Migration Program is here!
+
+The Atlassian Migration Program is here to help migrating customers, from Cloud assessment to adoption. It’s free and available to all (no sign up required). To get started, take the migration assessment for a personalized recommendation on when to migrate and actionable next steps.
+
+Change is hard. But the good news? Migrating to Cloud doesn’t have to be. There’s no better time to start exploring Cloud, because it’s never been easier to do so. We’re launching the Atlassian Migration Program to provide the tools, support, and guidance to help customers confidently make the move.
+
+It’s no secret that Atlassian is doubling down on our Cloud focus and for good reason: Cloud customers enjoy increased productivity and the peace of mind that comes with built-in security and compliance available out-of-the-box. Plus, teams that start on Server and make the switch to Cloud don’t have to wait long before realizing the benefits. An analysis by Forrester Consulting estimated that migrating to Atlassian Cloud has an ROI of 155% and an average payback period of less than 6 months.
+
+Plus, with end of Server support coming in February 2024, we know that migrations and how to actually make the switch are more top of mind than ever before.
+
+This January, we celebrated Migrations Month in Community and heard from many of you about your own migration journey and what you need from Atlassian to migrate with confidence. At our panel with Community Leaders Mike, Jimmy, and Russell, we asked: What would help you feel confident and ready to migrate? Here were the top 3 responses (respondents could select more than one option):
+
+44% said “more demos, webinars, and online resources”
+
+41% said “better technical documentation”
+
+31% said “more 1:1 support from Atlassian”
+
+So, drumroll please… the Atlassian Migration Program includes:
+
+Step by step migration guidance with Atlassian-built migration tools as well as tailored resources and demos
+
+Dedicated migration expertise including guidance from Atlassian’s migration support team, engineers, and trusted network of Solution Partners
+
+Cloud pricing incentives to ease your transition
+
+The program is free and available to all customers. It includes a personalized migration assessment, with a recommendation on when to migrate, actionable next steps for getting started, and the ability to save and share your results. If you take one step on your Cloud journey today, get started with the Atlassian Migration Program by taking the migration assessment.
+
+We’re committed to developing the tools, resources, and support channels that make it easier for customers to migrate. One thing that we’re doing as part of this launch is creating a new Atlassian Migration Program group in Community. You can join the group today and we’ll be “migrating” (see what I did there?) this collection’s content over to the group in the hopes that the new format will make it easier to opt in for content and share resources. Stay tuned for some new resources roundups and events happening in the new Atlassian Migration Program group.
+
+Is there something specific you’d like to see in that group? Or resources you’ve been looking for but can’t seem to find? Let us know in the comments below. Your feedback will help us continue to build the future of this program.
